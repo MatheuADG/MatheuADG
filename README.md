@@ -1,16 +1,48 @@
-### Hi there 👋
+# Matheus Santos
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue)](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
+[![GitHub](https://img.shields.io/badge/GitHub-seunome-9cf)](https://github.com/MatheuADG)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-seusite.com-success)](https://www.seusite.com) -->
+
+## Sobre mim
+
+Olá! 👋 Sou Seu Nome, um entusiasta da tecnologia com paixão por resolver problemas e desenvolver soluções criativas. Atualmente, sou estudante de Ciência da Computação e estou constantemente aprendendo e explorando novas áreas.
+
+- 🔭 Atualmente estou trabalhando em alguns projetos pessoais emocionantes.
+- 🌱 Atualmente estou aprendendo mais sobre aprendizado de máquina e desenvolvimento beck-end.
+- 👯 Estou procurando colaborar em projetos de código aberto e contribuir com a comunidade de desenvolvedores.
 <!--
-**MatheuADG/MatheuADG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos
 
-Here are some ideas to get you started:
+Aqui estão alguns dos meus projetos mais recentes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Nome do Projeto 1](https://github.com/seunome/projeto1)
+
+Breve descrição ou resumo do projeto.
+
+### [Nome do Projeto 2](https://github.com/seunome/projeto2)
+
+Breve descrição ou resumo do projeto.
+
+### [Nome do Projeto 3](https://github.com/seunome/projeto3)
+
+Breve descrição ou resumo do projeto.
 -->
+
+## Habilidades
+
+- Linguagens de programação: Python, JavaScript, Java.
+- Frameworks e bibliotecas:  React, Spring-Boot.
+- Ferramentas: Git, VSCode, docker.
+- Banco de dados: MySQL, MongoDB.
+- Sistemas Operacionais: Linux
+
+## Contato
+
+Você pode me encontrar em várias plataformas:
+
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
+- GitHub: [seunome](https://github.com/MatheuADG)
+
+
+Sinta-se à vontade para entrar em contato comigo para qualquer dúvida, colaboração ou apenas para bater um papo sobre tecnologia e desenvolvimento! 😊
