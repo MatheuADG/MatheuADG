@@ -31,8 +31,8 @@ Breve descrição ou resumo do projeto.
 
 ## Habilidades
 
-- Linguagens de programação: Python, JavaScript, Java.
-- Frameworks e bibliotecas:  React, Spring-Boot.
+- Linguagens de programação: JavaScript, NodeJs.
+- Frameworks e bibliotecas:  React, NestJs.
 - Ferramentas: Git, VSCode, docker.
 - Banco de dados: MySQL, MongoDB.
 - Sistemas Operacionais: Linux
