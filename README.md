@@ -41,8 +41,8 @@ Breve descrição ou resumo do projeto.
 
 Você pode me encontrar em várias plataformas:
 
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
-- GitHub: [seunome](https://github.com/MatheuADG)
+- LinkedIn: [Matheus](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
+- GitHub: [Matheus](https://github.com/MatheuADG)
 
 
 Sinta-se à vontade para entrar em contato comigo para qualquer dúvida, colaboração ou apenas para bater um papo sobre tecnologia e desenvolvimento! 😊
