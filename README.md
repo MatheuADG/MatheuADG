@@ -36,6 +36,7 @@ Breve descrição ou resumo do projeto.
 - Ferramentas: Git, VSCode, docker.
 - Banco de dados: MySQL, MongoDB.
 - Sistemas Operacionais: Linux
+- HTMl5 e CSS3 
 
 ## Contato
 
