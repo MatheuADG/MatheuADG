@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Olá! 👋 Sou Seu Nome, um entusiasta da tecnologia com paixão por resolver problemas e desenvolver soluções criativas. Atualmente, sou estudante de Ciência da Computação e estou constantemente aprendendo e explorando novas áreas.
+Olá! 👋 Sou Matheus, um entusiasta da tecnologia com paixão por resolver problemas e desenvolver soluções criativas. Atualmente, sou formado em desenvolvimento de sistemas e estou constantemente aprendendo e explorando novas áreas.
 
 - 🔭 Atualmente estou trabalhando no Pix no Banco Central.
 - 🌱 Atualmente estou aprendendo mais sobre DevOps.
