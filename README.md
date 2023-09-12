@@ -33,7 +33,7 @@ Breve descrição ou resumo do projeto.
 
 - Linguagens de programação: JavaScript, NodeJs, Java.
 - Frameworks e bibliotecas:  React, NestJs, wildfly.
-- Ferramentas: Git, VSCode, Docker, AWS, GCloud, VMWare.
+- Ferramentas: Git, GitHub Actions, VSCode, Docker, AWS, GCloud, VMWare.
 - Banco de dados: MySQL, MongoDB.
 - Sistemas Operacionais: Linux
 - HTMl5 e CSS3 
