@@ -29,13 +29,15 @@ Breve descrição ou resumo do projeto.
 Breve descrição ou resumo do projeto.
 -->
 
-## Habilidades
+### Habilidades
 
 - Linguagens de programação: JavaScript, NodeJs, Java.
-- Frameworks e bibliotecas:  React, NestJs, wildfly.
-- Ferramentas: Git, GitHub Actions, VSCode, Docker, AWS, GCloud, VMWare.
-- Banco de dados: MySQL, MongoDB.
-- Sistemas Operacionais: Linux
+- Servidores de aplicação: NGINX, wildfly, Apache kafka
+- Frameworks e bibliotecas:  React, NestJs, Spring-Boot.
+- Ferramentas: Git, GitHub Actions, VSCode, Docker.
+- Cloud:  AWS, GCP.
+- Banco de dados: MySQL, SQL Server, PostgreSQL.
+- Sistemas Operacionais: Linux, Windows
 - HTMl5 e CSS3 
 
 ## Contato
@@ -43,7 +45,7 @@ Breve descrição ou resumo do projeto.
 Você pode me encontrar em várias plataformas:
 
 - LinkedIn: [Matheus](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
-- GitHub: [Matheus](https://github.com/MatheuADG)
+- GitHub: [Matheus](https://github.com/mhsantosss)
 
 
 Sinta-se à vontade para entrar em contato comigo para qualquer dúvida, colaboração ou apenas para bater um papo sobre tecnologia e desenvolvimento! 😊
