@@ -1,7 +1,7 @@
 # Matheus Santos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue)](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
-[![GitHub](https://img.shields.io/badge/GitHub-seunome-9cf)](https://github.com/MatheuADG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus-blue)](https://www.linkedin.com/in/matheus-henrique-a30b9715a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus-9cf)](https://github.com/MatheuADG)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-seusite.com-success)](https://www.seusite.com) -->
 
 ## Sobre mim
