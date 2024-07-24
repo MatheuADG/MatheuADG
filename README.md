@@ -6,39 +6,23 @@
 
 ## Sobre mim
 
-Olá! 👋 Sou Matheus, um entusiasta da tecnologia com paixão por resolver problemas e desenvolver soluções criativas. Atualmente, sou formado em desenvolvimento de sistemas e estou constantemente aprendendo e explorando novas áreas.
+Olá! 👋 Sou Matheus, um entusiasta da tecnologia com paixão por resolver problemas e desenvolver soluções criativas. Atualmente, sou formado em desenvolvimento de sistemas e estou constantemente desenvolvendo minhas habilidades.
 
-- 🔭 Atualmente estou trabalhando no Pix no Banco Central.
-- 🌱 Atualmente estou aprendendo mais sobre DevOps.
+- 🔭 Atualmente estou trabalhando como desenvolvedor low-code.
 - 👯 Estou procurando colaborar em projetos de código aberto e contribuir com a comunidade de desenvolvedores.
 <!--
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-### [Nome do Projeto 1](https://github.com/seunome/projeto1)
-
-Breve descrição ou resumo do projeto.
-
-### [Nome do Projeto 2](https://github.com/seunome/projeto2)
-
-Breve descrição ou resumo do projeto.
-
-### [Nome do Projeto 3](https://github.com/seunome/projeto3)
-
-Breve descrição ou resumo do projeto.
--->
 
 ### Habilidades
 
-- Linguagens de programação: JavaScript, NodeJs, Java.
-- Servidores de aplicação: NGINX, wildfly, Apache kafka
-- Frameworks e bibliotecas:  React, NestJs, Spring-Boot.
-- Ferramentas: Git, GitHub Actions, VSCode, Docker.
-- Cloud:  AWS, GCP.
+- Linguagens de programação: Java.
+- Servidores de aplicação: NGINX, wildfly, Apache kafka.
+- Frameworks e bibliotecas: Spring-Boot.
+- Ferramentas: Git, VSCode, Docker.
 - Banco de dados: MySQL, SQL Server, PostgreSQL.
-- Sistemas Operacionais: Linux, Windows
-- HTMl5 e CSS3 
 
 ## Contato
 
