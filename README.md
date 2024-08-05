@@ -9,7 +9,7 @@
 Olá! 👋 Sou Matheus, um entusiasta da tecnologia com paixão por resolver problemas e desenvolver soluções criativas. Atualmente, sou formado em desenvolvimento de sistemas e estou constantemente desenvolvendo minhas habilidades.
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor low-code.
-- 👯 Estou procurando colaborar em projetos de código aberto e contribuir com a comunidade de desenvolvedores.
+##- 👯 Estou procurando colaborar em projetos de código aberto e contribuir com a comunidade de desenvolvedores.
 <!--
 ## Projetos
 
